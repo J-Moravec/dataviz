@@ -26,3 +26,12 @@ This repository contains my data visualizations and related challenges that led 
 * Details: [here](./PMR/)
 
 ![Comparison of anthropological theories](./PMR/theory_charts.svg)
+
+## Model validation diagnostics
+
+* Tools: R
+* Challenge: How to summarize model validation?
+* Note: Efficient display of diagnostic information
+* Details: [here](./Beast/)
+
+![Comparison of simulated and estimated parameters](./Beast/paramplot_small.svg)
