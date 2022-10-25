@@ -1,6 +1,6 @@
 # Data visualization
 
-This document contains my data visualizations and related challenges that led to them.
+This repository contains my data visualizations and related challenges that led to them.
 
 ## Clustering societies in Ethnographic Atlas
 
@@ -13,8 +13,16 @@ This document contains my data visualizations and related challenges that led to
 
 ## Visualizing the design of an agent based model
 
-* Tool: Latex with TikZ
+* Tool: LaTeX with TikZ
 * Challenge: How to visualize the structure and the design intention behind ABM?
 * Details: [here](./ABM/)
 
 ![Graphical representation of an agent-based model](./ABM/abm.svg)
+
+## Comparing anthropological theories
+
+* Tools: LaTeX with TikZ
+* Challenge: How to visually compare two theories?
+* Details: [here](./PMR/)
+
+![Comparison of anthropological theories](./PMR/theory_charts.svg)
